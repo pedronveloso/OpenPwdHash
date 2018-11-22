@@ -1,7 +1,7 @@
 package com.pedronveloso.main
 
-import com.pedronveloso.views.GeneratorView
-import tornadofx.App
+import com.pedronveloso.screens.generator.GeneratorView
+import tornadofx.*
 
 /**
  * References to available Views
